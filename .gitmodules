@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/EveNordinstorm/artistry-net.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/EveNordinstorm/ArtistryNetAPI.git
